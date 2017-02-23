@@ -2,6 +2,7 @@
 >Esse tutorial leva em consideração que o ambiente de desenvolvimento está devidamente configurado.
 >
 >Docs: [React Native - Get Started](https://facebook.github.io/react-native/docs/getting-started.html)
+
 ## Android
 ### _Inicializando o projeto_
 
